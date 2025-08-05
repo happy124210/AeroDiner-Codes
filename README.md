@@ -7,4 +7,6 @@
 
 [3. 데이터 기반 워크 플로우를 위한 CSV Importer](https://github.com/happy124210/AeroDiner-Codes/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B8%B0%EB%B0%98%20%EC%9B%8C%ED%81%AC%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%A5%BC%20%EC%9C%84%ED%95%9C%20CSV%20Importer)
 
+[🎬 개발 과정 유튜브](https://youtube.com/playlist?list=PLW5VzavWcCNWBiD1I8dnMAl8cXHt3Kvw3&si=96Ay9_89acowWqtl)
+
 <img width="332" height="239" alt="image" src="https://github.com/user-attachments/assets/aa2f0493-15c6-498e-81be-cd7068ce7413" />
